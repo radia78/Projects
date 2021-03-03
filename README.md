@@ -1,2 +1,2 @@
 # Personal-Projects
-Personal Project 1: Estimating winrates using logistic regression.
+Personal Project 1: MDST Education Kaggle project
