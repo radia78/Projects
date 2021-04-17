@@ -1,2 +1,5 @@
 # Personal-Projects
-Personal Project 1: MDST Education Kaggle project
+### Michigan Data Science Team | Riiid Answer Prediction
+  Online education is becoming more relevant because of the Covid-19 virus. Santa TOEIC is an app that prepares users for the TOEIC (an english test similar to TOEFL, but for busienss purposes). My team's goal is to used the dataset collected by the app and predict if the user will get a question correct. The model we've decided to use is Logistic regression and the features selected is the difficulty rate of the questions and a boolean to see if the user has seen an explanation for this question. My team's model has a 61.4% accuracy trained on 10^7 rows of data. We've learned that logistic regression is not the best model for this type of problem. This is because the model is not sophisticated enough to recognize patterns in the data set that might help with prediction. My recommendation is to look closer in each data and find more interesting patterns and engineer more sophisticated features. Also, I recommend to use models like transformer, SVM, or Naive Bayes for dealing witht his type of work.
+
+### Match Win-rates | League of Legends
